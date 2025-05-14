@@ -65,7 +65,8 @@ Criado em Maio de 2025
 
 ---
 
-## Screenshots (sugestão)
+## Screenshots 
 
-Você pode adicionar imagens aqui com:
+![image](https://github.com/user-attachments/assets/51b20e52-f778-4b88-b6d1-64f944e2e6e1)
+
 
