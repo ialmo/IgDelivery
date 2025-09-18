@@ -11,7 +11,8 @@ import SwiftUI
 struct IgDeliveryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
+        
         }
     }
 }
